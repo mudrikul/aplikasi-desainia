@@ -1,0 +1,5 @@
+Daftar Fitur yang akan dimasukan ke web aplikasi desainia
+- login
+- daftar
+- dashboard user
+- dashboard admin
